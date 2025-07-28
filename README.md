@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Sebastian. 👋</h1>
 </div>
-<img src="https://imgur.com/cjO2tXY">
+<img src="https://imgur.com/a/4x0HRMf">
 
 ## 🙎‍♂️ About me
 
