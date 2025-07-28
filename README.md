@@ -2,7 +2,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<h3>👨‍🎓 About me</h3>
 
 Junior Full Stack Developer focused on creating robust and scalable solutions across both frontend and backend. Committed to continuous learning and contributing to meaningful projects that drive real impact.
 
@@ -57,7 +57,7 @@ __Check out some of my projects:__
 
 </div>
 
-### ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
