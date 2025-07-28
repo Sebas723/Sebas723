@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Sebastian. 👋</h1>
 </div>
-<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Ftjah.medium.com%2Feat-sleep-code-repeat-please-dont-f1453659d703&psig=AOvVaw2CUgzKSl3ofeAhPc60lbSE&ust=1753764591537000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJj8u4_A3o4DFQAAAAAdAAAAABAE">
+<img src=https://miro.medium.com/v2/resize:fit:1400/1*sUI4nkPfH0wevBQMb29cnQ.jpeg">
 
 ## 🙎‍♂️ About me
 
