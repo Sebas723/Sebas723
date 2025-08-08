@@ -21,7 +21,7 @@ __Check out some of my projects:__
     <a href="https://github.com/Sebas723/Emprendev-SB">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas723&repo=Emprendev-SB" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Sebas723/Emprendev-SB">
+    <a href="https://github.com/Sebas723/Emprendev-Angular">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas723&repo=Emprendev-Angular" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Sebas723/Portafolio.git">
