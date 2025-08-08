@@ -19,7 +19,7 @@ __Check out some of my projects:__
 <div>
   <p>
     <a href="https://github.com/Sebas723/Emprendev-SB">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas723&repo=Emprendev-SB" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas723&repo=Emprendev-SB&cache_bust=1" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Sebas723/Emprendev-Angular">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas723&repo=Emprendev-Angular&cache_bust=1" alt="GitHub Stats" />
