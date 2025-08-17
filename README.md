@@ -1,7 +1,5 @@
 # Hello, I'm Sebastian 👋
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
 <h3>👨‍🎓 About me</h3>
 
 Junior Full Stack Developer focused on creating robust and scalable solutions across both frontend and backend. Committed to continuous learning and contributing to meaningful projects that drive real impact.
