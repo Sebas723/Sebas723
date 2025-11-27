@@ -22,7 +22,7 @@ __Check out some of my projects:__
     <a href="https://github.com/Sebas723/Emprendev-Angular">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas723&repo=Emprendev-Angular&cache_bust=1" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Sebas723/Portafolio.git">
+    <a href="https://github.com/Sebas723/Portfolio.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas723&repo=Portafolio" alt="GitHub Stats" />
     </a>
   </p>
